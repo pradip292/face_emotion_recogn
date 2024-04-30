@@ -1,6 +1,6 @@
 Facial Emotion Detection
 
-This project uses a Convolutional Neural Network (CNN) model trained on the FER2013 dataset for facial emotion detection. It detects facial emotions in real-time using the webcam.
+This project uses a Convolutional Neural Network (CNN) model trained on the external dataset for facial emotion detection. It detects facial emotions in real-time using the webcam.
 
 Installation
 Ensure you have the following libraries installed:
